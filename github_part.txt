@@ -1,0 +1,3 @@
+Version control is important because it allows for effective collaboration among coworkers without having to share one computer. 
+Each individual can make their own changes to a certain program, document, file, etc. 
+Version control allows saves each addition made, allowing for transparent cooperation and development.
